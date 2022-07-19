@@ -1,7 +1,7 @@
 ### Olá, sou o Bruno
 
-- 👨🏽‍💻 Iniciante no Back-End
-- 📚 Estudando Python
+- 👨🏽‍💻 Estudante Alura
+- 📚 Estudando Python, Django, HTML, CSS e JS
 
 <div align="left">
   <a href="https://github.com/brunoarruda04">
