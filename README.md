@@ -1,33 +1,37 @@
-<section>
-  <h1>Olá, sou o Bruno</h1>
-  
-  <div> 
-    <a href="https://instagram.com/brunoarrudaa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:brunoarrudadrop@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/bruno-arruda-santana-a607a7132" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-  
-  <div>
-     <p>👨🏽‍💻 Estudante Alura, atualmente aprofundando meus conhecimentos em NodeJs, React, JavaScript e Bancos de dados, relacionais e não relacionais. 📚</p>
-    
-  </div>
 
-  <div style="display: inline_block">
-    <img align="center" alt="Bruno-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Bruno-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
-    <img align="center" alt="Bruno-JS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Bruno-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Bruno-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
-  </div>
-  <br>
-  
+  ### Prazer em tê-lo aqui, sou o Bruno!
   <div>
-    <a href="https://github.com/brunoarruda04">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoarruda04&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><br>
-    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarruda04&layout=compact&langs_count=16&theme=github_dark"/>
+     <p>👨🏽‍💻 Desenvolvedor BackEnd Júnior, atualmente aprofundando meus conhecimentos em NodeJs, React, JavaScript e Bancos de dados, relacionais e não relacionais. 📚</p>
   </div>
+  <div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoarruda04&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarruda04&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Melhores Tecnologias</h1>
+    <img align="center" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
+    <img align="center" width="40" alt="postgreSQL-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
+    <img align="center" width="40" alt="mongodb-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
+   </div>
+    <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto:bruno_arruda_ba@hotmail.com">
+      <img width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Outlook.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/brunoarruda-dev">
+      <img width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg">
+    </a>
+    <a href = "https://www.instagram.com/brunoarrudaa_/">
+      <img width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg">
+    </a>
+</div>
+  
+  
+  
 
   
-  <br>
-  
-</section>
+
