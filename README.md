@@ -27,6 +27,10 @@
     <a href = "https://www.instagram.com/brunoarrudaa_/">
       <img width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg">
     </a>
+    <a href = "https://api.whatsapp.com/send?phone=5541999837974">
+        <img width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg">
+     </a>
+  
 </div>
   
   
