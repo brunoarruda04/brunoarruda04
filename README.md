@@ -3,8 +3,8 @@
 
   <p>👨🏽‍💻 Desenvolvedor Back-End Júnior. Atualmente aprofundando meus conhecimentos em NodeJs, React, JavaScript e Bancos de dados, relacionais e não relacionais. Sempre praticando o inglês, que se encontra em nível Avançado/Fluente 📚</p>
   <div style="display: inline_block">
-  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api?username=brunoarruda04&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarruda04&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=brunoarruda04&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarruda04&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 <div  align="center"> 
