@@ -1,5 +1,7 @@
 
-  ### Prazer em tê-lo aqui, sou o Bruno!
+<h1>Prazer em tê-lo aqui, sou o Bruno!</h1>
+
+  <p>👨🏽‍💻 Estudante Alura, atualmente aprofundando meus conhecimentos em NodeJs, React, JavaScript e Bancos de dados, relacionais e não relacionais. 📚</p>
   <div style="display: inline_block">
   <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api?username=brunoarruda04&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="200em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarruda04&layout=compact&langs_count=16&theme=great-gatsby"/>
@@ -7,7 +9,7 @@
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b7611f0aabfeeda644c56131b87489c4d3d371cb3e514&rid=giphy.gif&ct=g">
     <h1 align="center">Melhores Tecnologias</h1>
     <img align="center" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
