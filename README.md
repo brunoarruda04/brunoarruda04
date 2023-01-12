@@ -1,5 +1,4 @@
-<img style="width: 100%; margin-bottom:-10px" src="https://capsule-render.vercel.app/api?type=waving&color=daa520&height=120&section=header">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79213&width=435&lines=Bem+vindo+ao+meu+Github!;Prazer%2C+sou+o+Bruno!)](https://git.io/typing-svg)
+<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=daa520&center=true&width=435&lines=Bem+vindo+ao+meu+Github!;Prazer%2C+sou+o+Bruno!" alt="Typing SVG" /></h1>
 
   <p>👨🏽‍💻 Desenvolvedor Back-End Júnior. Atualmente aprofundando meus conhecimentos em NodeJs, React, JavaScript e Bancos de dados, relacionais e não relacionais. Sempre praticando o inglês, que se encontra em nível Avançado/Fluente 📚</p>
   <div style="display: inline_block">
