@@ -1,4 +1,4 @@
-
+<img style="width: 100%; margin-bottom:-10px" src="https://capsule-render.vercel.app/api?type=waving&color=daa520&height=120&section=header">
 <h1>Prazer em tê-lo aqui, sou o Bruno!</h1>
 
   <p>👨🏽‍💻 Desenvolvedor Back-End Júnior. Atualmente aprofundando meus conhecimentos em NodeJs, React, JavaScript e Bancos de dados, relacionais e não relacionais. Sempre praticando o inglês, que se encontra em nível Avançado/Fluente 📚</p>
@@ -32,8 +32,9 @@
      </a>
   
 </div>
+<img style="width: 100%; margin-bottom:-10px" src="https://capsule-render.vercel.app/api?type=waving&color=daa520&height=120&section=footer">
   
-  
+
   
 
   
