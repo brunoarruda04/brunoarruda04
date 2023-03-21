@@ -1,12 +1,12 @@
 <h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=daa520&center=true&width=435&lines=Welcome+to+my+Github!;Glad%2C+to+see+you!" alt="Typing SVG" /></h1>
 
   <p>👨🏽‍💻 Hi, I'm Bruno, a young programmer who practice the long term learning to keep my skills up to date, currently researching and reading about machine learning using Python. I love technology so it is easy to keep studying with a fast learning. Actually, I am the main responsible for new features and maintenance from all Python/Django softwares at my current job. I also study Software Engineering at UNIBRASIL and travelled to Ireland, to live practice my English in 2 week experience living there. 📚</p>
-  <div style="display: inline_block">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=brunoarruda04&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarruda04&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunoarruda04&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoarruda04&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
-<div  align="center"> 
+<div align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b7611f0aabfeeda644c56131b87489c4d3d371cb3e514&rid=giphy.gif&ct=g">
     <h1 align="center">Technologies</h1>
