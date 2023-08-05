@@ -1,39 +1,24 @@
-<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=828282&center=true&width=435&lines=Welcome+to+my+Github!;Glad%2C+to+see+you!" alt="Typing SVG" /></h1>
+##### 👨🏽‍💻 Hey, my name is <strong>Bruno!</strong>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunoarruda04&show_icons=true&title_color=00171f&text_color=003459&icon_color=00171f&bg_color=ffffff&cache_seconds=2300">
 
-  <p>👨🏽‍💻 Hey, I'm Bruno! I'm currently developing in Golang, Python, and Django. Technology is my passion, and I'm always eager to explore new possibilities in the tech world. Besides my coding adventures, I'm also a Software Engineering student at UNIBRASIL. On a fun note, I had an awesome two-week experience in Ireland, immersing myself in the culture and honing my English skills.</p>
-  <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunoarruda04&show_icons=true&theme=graywhite&show=reviews&hide=contribs,issues&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoarruda04&layout=compact&langs_count=16&theme=graywhite"/>
-</div>
-<br>
-<div align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b7611f0aabfeeda644c56131b87489c4d3d371cb3e514&rid=giphy.gif&ct=g">
-    <h1 align="center">Technologies</h1>
-    <img align="center" width="40" alt="golang-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg">
-    <img align="center" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"> 
-    <img align="center" width="40" alt="django-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg">
-    <img align="center" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" width="40" alt="docker-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg">
-    <img align="center" width="40" alt="postgreSQL-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
-    <img align="center" width="40" alt="mongodb-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
-   </div>
-    <h1 align="center">Social</h1>
-    <a href = "mailto:bruno_arruda_ba@hotmail.com">
-      <img width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Outlook.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/brunoarruda-dev">
-      <img width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg">
-    </a>
-    <a href = "https://www.instagram.com/brunoarrudaa_/">
-      <img width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg">
-    </a>
-  
-</div>
-<img style="width: 100%; margin-bottom:-10px" src="https://capsule-render.vercel.app/api?type=waving&color=828282&height=120&section=footer">
-  
+> I'm currently developing in Golang, Python, and Django. Technology is my passion, and I'm always eager to explore new possibilities in the tech world. I'm a young who loves traveling and sports. Feel free to reach out to me if you want to chat about travel, sports, technology, or anything else!
 
-  
 
-  
+<a href="https://www.linkedin.com/in/brunoarrudadev" alt="LinkedIn"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=@brunoarrudadev&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+[<img align="left" height="74px" width="74px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQENS0fXRnU0OQ/company-logo_200_200/0/1679929005362?e=1699488000&v=beta&t=PMqQr3crPkcy57lbFToqwMJJz3NT0ZpMf7cZ-lN1XIg"/>](https://www.atgroup.com.br/)
+
+**Full Stack Software Engineer (Jr)** \
+[**AT**](https://www.atgroup.com.br/) • Full-Time \
+Technologies: `Golang`, `Python`, `Django`, `Typescript`
+
+---
+
+![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
