@@ -1,5 +1,4 @@
 ##### 👨🏽‍💻 Hey, my name is <strong>Bruno!</strong>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=brunoarruda04&show_icons=true&title_color=00171f&text_color=003459&icon_color=00171f&bg_color=ffffff&cache_seconds=2300">
 
 > I'm currently developing in Golang, Python, and Django. Technology is my passion, and I'm always eager to explore new possibilities in the tech world. I'm a young who loves traveling and sports. Feel free to reach out to me if you want to chat about travel, sports, technology, or anything else!
 
@@ -22,3 +21,6 @@ Technologies: `Golang`, `Python`, `Django`, `Typescript`
 ![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
