@@ -13,11 +13,10 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # meta
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: athul/athul
+          REPOSITORY: brunoarruda04/brunoarruda04
           # content
           SHOW_TITLE: true
           SECTION_NAME: waka
@@ -35,6 +34,4 @@ jobs:
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.org
-          AUTHOR_NAME: Athul
-          AUTHOR_EMAIL: athul@example.org
           # you can populate email-id with secretes instead
