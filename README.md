@@ -24,7 +24,7 @@ Technologies: `Golang`, `Python`, `Django`, `Typescript`
 
 <hr>
 
-##### 📊 Weekly development breakdown #####
+##### 📊 Weekly Coding Track #####
 <!--START_SECTION:waka-->
 
 ```txt
