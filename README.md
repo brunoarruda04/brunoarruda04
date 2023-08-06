@@ -26,12 +26,8 @@ Technologies: `Golang`, `Python`, `Django`, `Typescript`
 
 <!--START_SECTION:waka-->
 
-```all_time
-From: 30 July 2023 - To: 06 August 2023
-
-Total Time: 1 min
-
-Go   1 min           >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```txt
+Go   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
