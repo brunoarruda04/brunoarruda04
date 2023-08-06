@@ -11,7 +11,7 @@
 [**AT**](https://www.atgroup.com.br/) • Full-Time \
 Technologies: `Golang`, `Python`, `Django`, `Typescript`
 
----
+<hr>
 
 ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -22,8 +22,9 @@ Technologies: `Golang`, `Python`, `Django`, `Typescript`
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+<hr>
 
+##### 📊 Weekly development breakdown #####
 <!--START_SECTION:waka-->
 
 ```txt
