@@ -23,16 +23,13 @@ Technologies: `Golang`, `Python`, `Django`, `Typescript`
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Go                       1 min               █████████████████████████   100.00 % 
+```all_time
+From: 30 July 2023 - To: 06 August 2023
+
+Total Time: 1 min
+
+Go   1 min           >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/brunoarruda04/brunoarruda04/main/assets/bar_graph.png)
-
 
 <!--END_SECTION:waka-->
