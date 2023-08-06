@@ -19,16 +19,8 @@ jobs:
           API_BASE_URL: https://wakatime.com/api
           REPOSITORY: brunoarruda04/brunoarruda04
           # content
-          SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ░▒▓█
-          CODE_LANG: all_time 
-          TIME_RANGE: true
           LANG_COUNT: 5
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
           # commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: main
