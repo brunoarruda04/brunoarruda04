@@ -28,11 +28,11 @@ Technologies: `Golang`, `Python`, `Django`, `Typescript`, `C++`
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   21 hrs 55 mins  █████████████████████▓░░░   86.97 %
-Python       1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Docker       26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-YAML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Go           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+TypeScript   17 hrs 42 mins  ████████████████████░░░░░   79.71 %
+Python       2 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Docker       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+YAML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Go           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
