@@ -28,11 +28,11 @@ Technologies: `Golang`, `Python`, `Django`, `Typescript`, `C++`
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    4 hrs 3 mins    ██████████████░░░░░░░░░░░   55.51 %
-Python        1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
-SQL           37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-JSON          20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-YAML          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+TypeScript    5 hrs 34 mins   ███████████████▒░░░░░░░░░   61.92 %
+Python        1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
+SQL           37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+JSON          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+YAML          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
