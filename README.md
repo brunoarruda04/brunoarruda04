@@ -9,7 +9,7 @@
 
 **Full Stack Software Engineer (Pl)** \
 [**AT**](https://www.atgroup.com.br/) • Full-Time \
-Technologies: `Golang`, `Python`, `Django`, `Typescript`, `C++`
+Technologies: `Golang`, `Python`, `Django`, `Typescript`, `React`
 
 <hr>
 
