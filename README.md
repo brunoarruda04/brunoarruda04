@@ -7,7 +7,7 @@
 
 [<img align="left" height="74px" width="74px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQENS0fXRnU0OQ/company-logo_200_200/0/1679929005693/group_at_logo?e=2147483647&v=beta&t=1-8ZOaTY1TqbIarGByn3xQ6YRDCYl_oP8P5M0FbXpHc"/>](https://www.atgroup.com.br/)
 
-**Full Stack Software Engineer (Pl)** \
+**Full Stack Software Engineer (Mid-Level)** \
 [**AT**](https://www.atgroup.com.br/) • Full-Time \
 Technologies: `Golang`, `Python`, `Django`, `Typescript`, `React`
 
