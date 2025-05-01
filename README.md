@@ -28,11 +28,11 @@ Technologies: `Golang`, `Python`, `Django`, `Typescript`, `React`
 <!--START_SECTION:waka-->
 
 ```txt
-Go                17 hrs 17 mins  ██████████████▒░░░░░░░░░░   57.92 %
-JavaScript        6 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
-YAML              1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-SQL               1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-Protocol Buffer   51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Go                16 hrs 34 mins  ██████████████▓░░░░░░░░░░   58.33 %
+JavaScript        3 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+YAML              2 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+SQL               1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Bash              55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 <!--END_SECTION:waka-->
