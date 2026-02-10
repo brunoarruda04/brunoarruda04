@@ -1,6 +1,6 @@
 ##### 👨🏽‍💻 Hey, my name is <strong>Bruno!</strong>
 
-> I'm currently developing in Golang, Python, and Django. Technology is my passion, and I'm always eager to explore new possibilities in the tech world. I'm a young who loves traveling and sports. Feel free to reach out to me if you want to chat about travel, sports, technology, or anything else!
+> I've been doing IoT stuff for 3+ years, but I also like sports things and space related topics. Always studying and currently reading "Design Data Intensive Applications". I really love Athletico Paranaense, feel free to say some shit about this team to me xD
 
 <a href="https://www.linkedin.com/in/brunoarrudadev" alt="LinkedIn"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=@brunoarrudadev&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
