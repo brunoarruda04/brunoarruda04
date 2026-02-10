@@ -6,16 +6,18 @@
 
 [<img align="left" height="74px" width="74px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4E0BAQFs5DNQ_Nq8KA/company-logo_200_200/company-logo_200_200/0/1648573226781/tractian_logo?e=2147483647&v=beta&t=MBcQPn5JcY4U7fUMoSLT-qio8d0pbqvK7NohqdPI5x0"/>](https://www.tractian.com.br/)
 
-**Backend Software Engineer (Mid-Level)** \
-[**TRACTIAN**](https://www.tractian.com.br/) • Full-Time \
+**Mid II Backend Software Engineer | (06/2025 - Present)** \
+[**TRACTIAN**](https://www.tractian.com.br/) • Full-Time  \
 Technologies: `Golang`, `Python`
+
 
 
 [<img align="left" height="74px" width="74px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQGYJkIDXQdFIw/company-logo_200_200/B4DZmG2DnLG8AI-/0/1758903942594/mifysmartfactory_logo?e=1772064000&v=beta&t=zYjgOBj3n95qb28n98CQ4aZnv8Phz8JeJHnzElOlRxY"/>](https://www.atgroup.com.br/)
 
-**Software Engineer (Mid-Level)** \
+**Mid I Software Engineer | (01/2023 - 05/2025)** \
 [**Mify**](https://www.mify.com.br/) • Full-Time \
 Technologies: `Golang`, `Python`, `Django`, `Typescript`, `React`
+
 
 <hr>
 
