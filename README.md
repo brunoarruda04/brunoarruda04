@@ -12,7 +12,7 @@ Technologies: `Golang`, `Python`
 
 
 
-[<img align="left" height="74px" width="74px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQGYJkIDXQdFIw/company-logo_200_200/B4DZmG2DnLG8AI-/0/1758903942594/mifysmartfactory_logo?e=1772064000&v=beta&t=zYjgOBj3n95qb28n98CQ4aZnv8Phz8JeJHnzElOlRxY"/>](https://www.atgroup.com.br/)
+[<img align="left" height="74px" width="74px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQGYJkIDXQdFIw/company-logo_200_200/B4DZmG2DnLG8AI-/0/1758903942594/mifysmartfactory_logo?e=1778112000&v=beta&t=HLSLK2gGdMwryv7B6f_XZN_fB_mX2kLAx1UO4BXHOn8"/>](https://www.atgroup.com.br/)
 
 **Mid I Software Engineer | (01/2023 - 05/2025)** \
 [**Mify**](https://www.mify.com.br/) • Full-Time \
